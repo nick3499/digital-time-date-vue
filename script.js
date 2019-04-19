@@ -1,3 +1,8 @@
+```
+license: CC0 1.0 Universal
+http://creativecommons.org/publicdomain/zero/1.0/
+http://i.creativecommons.org/p/zero/1.0/88x31.png
+```
 var digitalClock = new Vue({
   el: '#app',
   data: {
