@@ -62,3 +62,5 @@ function update() {
  * `month` is assigned an array of month names.
  * `interval` which is set to `1000` milliseconds which equals `1` second for the seconds value in the digital clock display in the Web page.
  * `update()` 
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R72LISM)
